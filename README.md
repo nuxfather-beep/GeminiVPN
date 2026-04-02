@@ -15,3 +15,4 @@
 ## ⚙️ Требования
 * Windows 10 / 11 (x64)
 * Права администратора
+https://img.shields.io/github/downloads/nuxfather-beep/GeminiVPN/total?label=Downloads
